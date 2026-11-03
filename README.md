@@ -1,4 +1,5 @@
 IA Bajo Control — Proyecto Intermodular de Sergio Ruiz y David Clemente
+Enlace al repositorio en GitHub: https://github.com/SergioRuizm/ia_bajo_control.git
 Contenido de la entrega
 La entrega está formada por dos elementos:
 1. Documento principal en PDF
